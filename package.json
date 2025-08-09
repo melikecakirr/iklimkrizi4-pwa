@@ -1,0 +1,10 @@
+{
+  "name": "iklimkrizi4-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve public",
+    "build": "echo 'PWA statik build hazır'"
+  },
+  "dependencies": {}
+}
