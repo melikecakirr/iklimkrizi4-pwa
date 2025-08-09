@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f7f6;
+  color: #0f1720;
+}
+article {
+  background: #fff;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+a {
+  color: #1E7A6E;
+  text-decoration: none;
+}
